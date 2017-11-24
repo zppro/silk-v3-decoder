@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+	"install": "echo \"silk-v3-decoder-zppro install...\" "
+	"postinstall": "echo \"silk-v3-decoder-zppro postinstall...\""
   },
   "repository": {
     "type": "git",
