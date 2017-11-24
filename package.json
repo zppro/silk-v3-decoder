@@ -1,0 +1,19 @@
+{
+  "name": "silk-v3-decoder-zppro",
+  "version": "1.0.0",
+  "description": "for baidu-aip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zppro/silk-v3-decoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zppro/silk-v3-decoder/issues"
+  },
+  "homepage": "https://github.com/zppro/silk-v3-decoder#readme"
+}
