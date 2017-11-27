@@ -1,12 +1,11 @@
 {
   "name": "silk-v3-decoder-zppro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for baidu-aip",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"install": "echo \"silk-v3-decoder-zppro install...\" ",
-	"postinstall": "echo \"silk-v3-decoder-zppro postinstall...\""
+	"postinstall": "echo \"postinstall to check decoder for silk v3 ...\" && ./post-install.sh"
   },
   "repository": {
     "type": "git",
